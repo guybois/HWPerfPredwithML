@@ -1,6 +1,4 @@
-/////////////////////////////////////////
-// How to use this dataset
-/////////////////////////////////////////
+# How to use this dataset
 
 -	This dataset was generated using our 3d rendering application presented in 
 	the article and records the IFPS in function of the percentage of the 
