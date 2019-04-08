@@ -1,0 +1,18 @@
+texturesize - this test is testing multiple texture sizes
+these are the fixed parameters for this batch of tests:
+  - tile vertices resolution: 17 vertices by 17 vertices
+  - grid dimensions: 17 by 17
+  - screen size: 480 pixels by 640 pixels
+  - hi-resolution tiles depth is 9 tiles including the center tile
+  - height reach by the camera: 100 % of the maximum height
+  - presence of antialiasing: no
+  - presence of fog: no
+  - Use Culling: yes
+  - Use tipsify: yes
+Value tested: 128
+Average FPS: 160.850315
+Maximum time taken to load a frame : 49.632413 ms (in FPS: 20.148124)
+Scene size (including vertices, tiles index, vertices' normal and vertices' color): 3150.777344 kb
+Scene loading time (from system RAM to GPU RAM): 1331.240259 ms
+Scene loading throughput (from system RAM to GPU RAM): 2366.798422 kb/sec
+

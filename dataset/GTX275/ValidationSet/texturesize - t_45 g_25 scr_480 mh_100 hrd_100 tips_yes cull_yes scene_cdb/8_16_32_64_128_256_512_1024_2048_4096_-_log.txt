@@ -1,0 +1,81 @@
+texturesize - this test is testing multiple texture sizes
+these are the fixed parameters for this batch of tests:
+  - tile vertices resolution: 45 vertices by 45 vertices
+  - grid dimensions: 25 by 25
+  - screen size: 480 pixels by 640 pixels
+  - hi-resolution tiles depth is 13 tiles including the center tile
+  - height reach by the camera: 100 % of the maximum height
+  - presence of antialiasing: no
+  - presence of fog: no
+  - Use Culling: yes
+  - Use tipsify: yes
+Value tested: 8
+Average FPS: 64.585432
+Maximum time taken to load a frame : 27.226383 ms (in FPS: 36.729080)
+Scene size (including vertices, tiles index, vertices' normal and vertices' color): 48786.621094 kb
+Scene loading time (from system RAM to GPU RAM): 14745.377011 ms
+Scene loading throughput (from system RAM to GPU RAM): 3308.604524 kb/sec
+
+Value tested: 16
+Average FPS: 64.709932
+Maximum time taken to load a frame : 27.460420 ms (in FPS: 36.416049)
+Scene size (including vertices, tiles index, vertices' normal and vertices' color): 48786.621094 kb
+Scene loading time (from system RAM to GPU RAM): 14972.235065 ms
+Scene loading throughput (from system RAM to GPU RAM): 3258.472825 kb/sec
+
+Value tested: 32
+Average FPS: 72.579904
+Maximum time taken to load a frame : 26.528870 ms (in FPS: 37.694783)
+Scene size (including vertices, tiles index, vertices' normal and vertices' color): 48786.621094 kb
+Scene loading time (from system RAM to GPU RAM): 15068.040677 ms
+Scene loading throughput (from system RAM to GPU RAM): 3237.754804 kb/sec
+
+Value tested: 64
+Average FPS: 64.598926
+Maximum time taken to load a frame : 26.524273 ms (in FPS: 37.701316)
+Scene size (including vertices, tiles index, vertices' normal and vertices' color): 48786.621094 kb
+Scene loading time (from system RAM to GPU RAM): 15250.826310 ms
+Scene loading throughput (from system RAM to GPU RAM): 3198.949362 kb/sec
+
+Value tested: 128
+Average FPS: 63.522594
+Maximum time taken to load a frame : 28.871917 ms (in FPS: 34.635733)
+Scene size (including vertices, tiles index, vertices' normal and vertices' color): 48786.621094 kb
+Scene loading time (from system RAM to GPU RAM): 15113.228506 ms
+Scene loading throughput (from system RAM to GPU RAM): 3228.074073 kb/sec
+
+Value tested: 256
+Average FPS: 64.326919
+Maximum time taken to load a frame : 27.935771 ms (in FPS: 35.796399)
+Scene size (including vertices, tiles index, vertices' normal and vertices' color): 48786.621094 kb
+Scene loading time (from system RAM to GPU RAM): 15379.928701 ms
+Scene loading throughput (from system RAM to GPU RAM): 3172.096701 kb/sec
+
+Value tested: 512
+Average FPS: 64.129630
+Maximum time taken to load a frame : 28.355964 ms (in FPS: 35.265950)
+Scene size (including vertices, tiles index, vertices' normal and vertices' color): 48786.621094 kb
+Scene loading time (from system RAM to GPU RAM): 15103.043127 ms
+Scene loading throughput (from system RAM to GPU RAM): 3230.251062 kb/sec
+
+Value tested: 1024
+Average FPS: 64.297007
+Maximum time taken to load a frame : 30.669134 ms (in FPS: 32.606072)
+Scene size (including vertices, tiles index, vertices' normal and vertices' color): 48786.621094 kb
+Scene loading time (from system RAM to GPU RAM): 15082.026565 ms
+Scene loading throughput (from system RAM to GPU RAM): 3234.752365 kb/sec
+
+Value tested: 2048
+Average FPS: 64.288862
+Maximum time taken to load a frame : 28.521054 ms (in FPS: 35.061818)
+Scene size (including vertices, tiles index, vertices' normal and vertices' color): 48786.621094 kb
+Scene loading time (from system RAM to GPU RAM): 15299.704333 ms
+Scene loading throughput (from system RAM to GPU RAM): 3188.729666 kb/sec
+
+Value tested: 4096
+Average FPS: 63.844608
+Maximum time taken to load a frame : 38.433709 ms (in FPS: 26.018826)
+Scene size (including vertices, tiles index, vertices' normal and vertices' color): 48786.621094 kb
+Scene loading time (from system RAM to GPU RAM): 15117.497088 ms
+Scene loading throughput (from system RAM to GPU RAM): 3227.162592 kb/sec
+
